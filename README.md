@@ -48,7 +48,7 @@ In real-world lending decisions, there’s a **critical trade-off**:
 ---
 
 ## Final Model Performance (Threshold = 0.15)
-
+Here threshold 0.15 is choosen to get balanced result. But the value of thresold can be changed accoring to the market condition. Higher threshold means accepting larger number of applicants and vice versa.
 | Metric          | Value |
 |-----------------|--------|
 | Accuracy         | 91%    |
@@ -57,4 +57,5 @@ In real-world lending decisions, there’s a **critical trade-off**:
 | ROC-AUC Score    | 0.905  |
 
 ### Confusion Matrix
-
+| 3451| 274 |
+| 93  | 82  |
