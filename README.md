@@ -57,6 +57,7 @@ Here threshold 0.15 is choosen to get balanced result. But the value of thresold
 | ROC-AUC Score    | 0.905  |
 
 ### Confusion Matrix
-|Actual 0| 3451| 274 |
-|--------|-----|-----|
-|Actual 1| 93  | 182 |
+|--------| Predicted 1| Predicted 0|
+|Actual 0| 3451| 274|
+|--------|-----|----|
+|Actual 1| 93  | 182|
