@@ -58,6 +58,7 @@ Here threshold 0.15 is choosen to get balanced result. But the value of thresold
 
 ### Confusion Matrix
 |--------| Predicted 1| Predicted 0|
+|--------|------------|------------|
 |Actual 0| 3451| 274|
 |--------|-----|----|
 |Actual 1| 93  | 182|
